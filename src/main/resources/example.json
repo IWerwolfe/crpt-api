@@ -1,0 +1,51 @@
+{
+  "description": {
+    "participant_inn": "test description"
+  },
+  "doc_id": "12345",
+  "doc_status": "pending",
+  "doc_type": "LP_INTRODUCE_GOODS",
+  "import_Request": true,
+  "owner_inn": "7704211203",
+  "participant_inn": "7704211200",
+  "producer_inn": "7704211202",
+  "production_date": "2024-02-13",
+  "production_type": "Simple",
+  "products": [
+    {
+      "certificate_document": "ORDER-0",
+      "certificate_document_date": "2024-02-13",
+      "certificate_document_number": "0",
+      "owner_inn": "220322598212",
+      "producer_inn": "770423122444",
+      "production_date": "2024-02-13",
+      "tnved_code": "123",
+      "uit_code": "312",
+      "uitu_code": null
+    },
+    {
+      "certificate_document": "ORDER-1",
+      "certificate_document_date": "2024-02-13",
+      "certificate_document_number": "1",
+      "owner_inn": "220322598212",
+      "producer_inn": "770423122444",
+      "production_date": "2024-02-13",
+      "tnved_code": "123",
+      "uit_code": "312",
+      "uitu_code": null
+    },
+    {
+      "certificate_document": "ORDER-2",
+      "certificate_document_date": "2024-02-13",
+      "certificate_document_number": "2",
+      "owner_inn": "220322598212",
+      "producer_inn": "770423122444",
+      "production_date": "2024-02-13",
+      "tnved_code": "123",
+      "uit_code": "312",
+      "uitu_code": null
+    }
+  ],
+  "reg_date": "2024-02-13",
+  "reg_number": "12345"
+}
